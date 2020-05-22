@@ -171,4 +171,4 @@ style50 runoff.c
 How to Submit
 Execute the below, logging in with your GitHub username and password when prompted. For security, you’ll see asterisks (*) instead of the actual characters in your password.
 
-submit50 cs50/problems/2020/x/runoff
+submit50 cs50/problems/2020/x/runoffset up ssl for ubuntu migration on 22.05.20
