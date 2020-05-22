@@ -168,7 +168,9 @@ check50 cs50/problems/2020/x/runoff
 Execute the below to evaluate the style of your code using style50.
 
 style50 runoff.c
-How to Submit
+
+
+## How to Submit
 Execute the below, logging in with your GitHub username and password when prompted. For security, you’ll see asterisks (*) instead of the actual characters in your password.
 
-submit50 cs50/problems/2020/x/runoffset up ssl for ubuntu migration on 22.05.20
+submit50 cs50/problems/2020/x/runoff
